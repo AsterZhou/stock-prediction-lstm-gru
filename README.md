@@ -79,6 +79,38 @@ Metrics:
 - LSTM: slightly better trading profit
 
 ---
+## 📊 Results Visualization
+
+### 📈 Prediction Comparison (LSTM vs GRU)
+
+#### 600519 (Kweichow Moutai)
+![](results/figures/prediction_600519.png)
+
+#### 300750 (CATL)
+![](results/figures/prediction_300750.png)
+
+#### 601988 (Bank of China)
+![](results/figures/prediction_601988.png)
+
+---
+
+### 🔍 Detailed Analysis (600519)
+
+#### Prediction Scatter Plot
+![](results/figures/scatter_600519.png)
+
+#### Error Series
+![](results/figures/error_series_600519.png)
+
+---
+
+### 📉 Training Process
+
+#### LSTM Training Loss
+![](results/figures/loss_lstm.png)
+
+#### GRU Training Loss
+![](results/figures/loss_gru.png)
 
 ##  Limitations
 
