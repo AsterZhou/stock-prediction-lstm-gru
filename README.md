@@ -49,6 +49,15 @@ Features used:
 - Optimizer: Adam / RMSprop
 
 ---
+## 🧠 Method Overview
+
+### Sliding Window Design
+
+![](results/figures/sliding_window.png)
+
+### Model Architecture
+
+![](results/figures/model_structure.png)
 
 ##  Evaluation
 
